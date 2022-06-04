@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petarhajduk
-- 👀 I’m interested in programming, mainly backend development
-- 🌱 I’m currently learning java
+- 👀 I’m interested in programming, embeded and backend development
+- 🌱 Programming languages: C, C++, Java, Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: hajduk.petar@gmail.com, instagram: percha_sw
 
